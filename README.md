@@ -1,29 +1,29 @@
--- Akıllı Görev Listem (AI Task Assistant)
-Mezuniyet yolculuğunda görevleri akıllıca yönetmek için geliştirilmiş, modern ve dinamik bir web uygulaması.
+🎯 Akıllı Görev Listem (AI Task Assistant) 🏎️⚡
+Mezuniyet yolculuğunda akademik ve kişisel görevleri akıllıca yönetmek için geliştirilmiş, modern ve dinamik bir web uygulamasıdır. Kullanıcı dostu arayüzü, gerçek zamanlı veri senkronizasyonu ve yerel AI desteği ile verimliliği artırmayı hedefler.
 
-- Özellikler
-Gerçek Zamanlı Senkronizasyon: Firebase Firestore ile veriler anlık olarak güncellenir.
+🚀 Öne Çıkan Özellikler
+🔄 Gerçek Zamanlı Senkronizasyon: Firebase Firestore entegrasyonu sayesinde görevler anlık olarak kaydedilir ve tüm cihazlarda güncel kalır.
 
-Akıllı Tavsiyeler: Görev içeriğine göre (proje, ders, spor vb.) yerel AI tavsiyeleri sunar.
+🤖 Akıllı Tavsiyeler (Local AI): Görev içeriğini (proje, ödev, ders, spor vb.) analiz ederek kullanıcıya özel, motivasyon artırıcı tavsiyeler sunar.
 
-Apple Stil UI: Glassmorphism ve modern Apple tasarım prensipleriyle oluşturulmuş kullanıcı arayüzü.
+🏎️ URG (Acil) Modu: Yüksek öncelikli görevler için tasarlanmış özel görsel etiketleme sistemi.
 
-GTi (Acil) Modu: Peugeot 206 GTi'dan ilham alan yüksek öncelikli görev etiketi.
+✨ Modern Apple Stil UI: Glassmorphism ve minimal tasarım prensipleriyle hazırlanan, estetik ve pürüzsüz kullanıcı deneyimi.
 
-Karanlık/Aydınlık Mod: Göz yormayan tema geçiş desteği.
+🌓 Tema Desteği: Tek tıkla Karanlık (Dark) ve Aydınlık (Light) mod arasında geçiş imkanı.
 
-- Kullanılan Teknolojiler
-Frontend: HTML5, CSS3, Vanilla JavaScript (ES6+).
+🛠️ Teknik Stack
+Frontend: HTML5, CSS3 (Custom Variables & Keyframe Animations), Vanilla JavaScript (ES6+).
 
-Backend: Firebase Firestore.
+Backend & Veritabanı: Firebase Firestore.
 
 Deployment: GitHub Pages.
 
-- Güvenlik Notu
-Bu projede kullanılan API anahtarları, Google Cloud üzerinden HTTP Referrer kısıtlaması ile korunmaktadır. GitHub tarafından verilen "Public Leak" uyarıları bilinçli bir tercihtir; güvenlik, anahtarı gizlemek yerine servis tarafında kısıtlanarak sağlanmıştır.
+🛡️ Güvenlik Yaklaşımı
+Bu projede kullanılan API anahtarları, Google Cloud üzerinden HTTP Referrer kısıtlaması ile korunmaktadır. GitHub tarafından iletilen "Public Leak" uyarıları bilinçli bir tercihtir; güvenlik, anahtarı gizlemek yerine servis tarafında belirli alan adlarına (localhost ve GitHub Pages) kısıtlanarak profesyonel bir yaklaşımla sağlanmıştır.
 
-- Akademik Durum
-Bu proje, Türk Hava Kurumu Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisi Umut Cansın Torgaylı tarafından geliştirilmiştir.
-<img width="1912" height="935" alt="image" src="https://github.com/user-attachments/assets/d4218f4e-abf2-45a9-870a-28d25c25abea" />+
+🎓 Akademik Bilgi
+Bu proje, Türk Hava Kurumu Üniversitesi Bilgisayar Mühendisliği bölümü son sınıf öğrencisi Umut Cansın Torgaylı tarafından, yazılım geliştirme pratiklerini ve bulut servis entegrasyonlarını pekiştirmek amacıyla geliştirilmiştir.
+<img width="1894" height="926" alt="image" src="https://github.com/user-attachments/assets/d4218f4e-abf2-45a9-870a-28d25c25abea" />+
 <img width="1894" height="926" alt="image" src="https://github.com/user-attachments/assets/a3e8aeec-3bff-440f-b331-738c4240c849" />
 
